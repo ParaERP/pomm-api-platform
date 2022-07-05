@@ -16,5 +16,6 @@
     },
     "autoload": {
         "psr-4": { "PommProject\\ApiPlatform\\": "src/" }
-    }
+    },
+    "minimum-stability": "alpha"
 }
